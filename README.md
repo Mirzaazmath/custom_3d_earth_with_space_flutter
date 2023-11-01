@@ -22,6 +22,14 @@ This project is a starting point for a Flutter application.
 
 <img src="https://github.com/Mirzaazmath/custom_3d_earth_with_space_flutter/blob/main/assets/output/result.gif" height="400">
 
+
+
+
+# Download App
+
+
+<a href="https://github.com/Mirzaazmath/neomorphic_timer_flutter/blob/main/assets/app-release.apk" target="_blank" style="background: #1B82EC; border-radius: 5px; font-size: 13px; line-height: 15px; text-align: center; color: #FFFFFF; padding: 8px 16px; outline: none; border: none;">Download APK</a>
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
